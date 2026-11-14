@@ -1,0 +1,17 @@
+{
+  "name": "youtuber-ranking",
+  "version": "1.0.0",
+  "description": "YouTube Channels Ranking with Supabase & YouTube Data API v3 Auto Sync",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "sync": "node youtube-sync.js"
+  },
+  "keywords": [
+    "youtube",
+    "supabase",
+    "ranking"
+  ],
+  "author": "",
+  "license": "MIT"
+}
